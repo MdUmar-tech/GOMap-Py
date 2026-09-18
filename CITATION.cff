@@ -1,0 +1,7 @@
+cff-version: 1.2.0
+message: "If you use this pipeline or code in your manuscript, please cite it as below."
+title: "GeneOntology-Pipeline: Automated Gene Ontology Profiling and Manuscript Reporting"
+version: 1.1.0
+date-released: 2026-09-18
+url: "https://github.com/YOUR_USERNAME/GeneOntology_v1.1"
+abstract: "A Python/R pipeline for parsing InterProScan tabular annotations, resolving Gene Ontology Consortium basic ontology (go-basic.obo) hierarchies, computing domain statistics, rendering publication-ready figures, and generating automated manuscript Word documents."
